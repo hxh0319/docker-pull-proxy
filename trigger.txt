@@ -1,1 +1,1 @@
-hxh_0319:20240606 registry.cn-hangzhou.aliyuncs.com/hxh0319/docker:20240606
+homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/hxh0319/docker:20240606
